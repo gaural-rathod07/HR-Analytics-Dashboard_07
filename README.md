@@ -4,7 +4,13 @@
 This **HR Analytics Dashboard** helps the Human Resources department identify the **key factors behind employee attrition** and understand workforce demographics.  
 The goal is to help management take **data-driven actions to reduce employee turnover** and improve overall employee satisfaction.
 
-**Dataset used:** [HR Analytics Dataset (Kaggle)](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)
+---
+
+## 🪙 Dataset Credit  
+Dataset: [HR Analytics Dataset by Anshika2301 on Kaggle](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)  
+License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)  
+This dataset is publicly available and free to use for analysis and educational purposes.
+
 
 ---
 
