@@ -45,7 +45,7 @@ The goal is to help management take **data-driven actions to reduce employee tur
 ---
 
 ## 🖼️ Dashboard Preview  
-![HR Analytics Dashboard_07](HR Analytics Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard_image.png)
 
 ---
 
