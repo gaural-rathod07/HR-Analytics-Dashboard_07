@@ -9,8 +9,7 @@ The goal is to help management take **data-driven actions to reduce employee tur
 ## 🪙 Dataset Credit  
 Dataset: [HR Analytics Dataset by Anshika2301 on Kaggle](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)  
 License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)  
-This dataset is publicly available and free to use for analysis and educational purposes.
-
+This dataset is publicly available under the CC0 license and has been used for analysis and educational purposes.
 
 ---
 
