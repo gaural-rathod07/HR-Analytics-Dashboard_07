@@ -30,7 +30,7 @@ This dataset is publicly available under the CC0 license and has been used for a
 - **DAX (Data Analysis Expressions)**  
 - **Data Cleaning & Modeling**  
 - **Kaggle Dataset (CSV)**  
-- **Visualizations:** Bar Chart, Donut Chart, Line Graph, Clustered Columns, Cards, and Filters
+- **Visualizations:** Bar Chart, Donut Chart, Area Chart, Column Chart, Cards, and Slicer.
 
 ---
 
