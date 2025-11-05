@@ -50,7 +50,7 @@ This dataset is publicly available under the CC0 license and has been used for a
 ---
 
 ## 🖼️ Dashboard Preview  
-![HR Analytics Dashboard](HR_Analytics_Dashboard_image.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
